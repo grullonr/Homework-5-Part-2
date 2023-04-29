@@ -57,5 +57,5 @@ const deleteLink = (req, res) => {
 }
 
 module.exports = {
-  getLinks,
+   getLinks, deleteLink, updateLink, createLink,
 }
